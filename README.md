@@ -30,5 +30,7 @@ Okay, tell me where do I get it?
 
 You can donwload the files below, but please refer to the WIKI for installation instructions.
 ZIP : https://github.com/dasourced/bootstrap-shadow/releases/download/latest/bootstrap.dat.zip
+
 MD5 : https://github.com/dasourced/bootstrap-shadow/releases/download/latest/md5.txt
+
 SHA256 : https://github.com/dasourced/bootstrap-shadow/releases/download/latest/sha256.txt
