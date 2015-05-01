@@ -19,3 +19,7 @@ Why should I trust you?
 
 You don't have to: This is raw blockchain data.  The client will verify this data during import.
 Independent third parties may generate their own bootstrap.dat, up to a recent height, and verify that the sha256sum matches that posted above.  
+
+-----------------------
+Where can I get more info?
+Please head over to our WIKI here : http://shadowcash.info/x/MAAV
