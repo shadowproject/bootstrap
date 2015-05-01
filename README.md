@@ -1,7 +1,7 @@
 # bootstrap-shadow
 Shadow Blockchain bootstrap
 
-Shadow/shadowcoind supports a special import feature: If the file "bootstrap.dat" is found in the shadowcoin data directory, it will validate and import all blockchain data found in that file.
+Shadow-QT/shadowcoind supports a special import feature: If the file "bootstrap.dat" is found in the shadowcoin data directory, it will validate and import all blockchain data found in that file.
 
 ----------------------
 What is bootstrap.dat?
