@@ -22,4 +22,5 @@ Independent third parties may generate their own bootstrap.dat, up to a recent h
 
 -----------------------
 Where can I get more info?
+
 Please head over to our WIKI here : http://shadowcash.info/x/MAAV
