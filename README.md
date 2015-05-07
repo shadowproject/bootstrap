@@ -35,3 +35,5 @@ ZIP : https://github.com/dasourced/bootstrap-shadow/releases/download/latest/boo
 MD5 : https://github.com/dasourced/bootstrap-shadow/releases/download/latest/md5.txt
 
 SHA256 : https://github.com/dasourced/bootstrap-shadow/releases/download/latest/sha256.txt
+
+Updated on 7th May; Block 454252
