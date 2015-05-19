@@ -36,4 +36,4 @@ MD5 : https://github.com/dasourced/bootstrap-shadow/releases/download/latest/md5
 
 SHA256 : https://github.com/dasourced/bootstrap-shadow/releases/download/latest/sha256.txt
 
-Updated on 7th May; Block 454252
+Updated on 19th May; Block 467249
