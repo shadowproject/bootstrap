@@ -1,4 +1,4 @@
-# bootstrap-shadow
+# bootstrap
 Shadow Blockchain bootstrap
 
 Shadow-QT/shadowcoind supports a special import feature: If the file "bootstrap.dat" is found in the shadowcoin data directory, it will validate and import all blockchain data found in that file.
@@ -30,10 +30,10 @@ Okay, tell me where do I get it?
 
 You can download the files below, but please refer to the WIKI for installation instructions.
 
-ZIP : https://github.com/dasourced/bootstrap-shadow/releases/download/latest/bootstrap.dat.zip
+ZIP : https://github.com/ShadowProject/bootstrap/releases/download/latest/bootstrap.dat.zip
 
-MD5 : https://github.com/dasourced/bootstrap-shadow/releases/download/latest/md5.txt
+MD5 : https://github.com/ShadowProject/bootstrap/releases/download/latest/md5.txt
 
-SHA256 : https://github.com/dasourced/bootstrap-shadow/releases/download/latest/sha256.txt
+SHA256 : https://github.com/ShadowProject/bootstrap/releases/download/latest/sha256.txt
 
 Updated on 21st July; Block 522,766
