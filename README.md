@@ -36,4 +36,4 @@ MD5 : https://github.com/ShadowProject/bootstrap/releases/download/latest/md5.tx
 
 SHA256 : https://github.com/ShadowProject/bootstrap/releases/download/latest/sha256.txt
 
-Updated on 21st July; Block 522,766
+Updated on 15th August; Block 548,977
