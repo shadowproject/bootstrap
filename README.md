@@ -32,7 +32,4 @@ You can download the files below, but please refer to the WIKI for installation 
 
 ZIP : https://github.com/ShadowProject/bootstrap/releases/download/latest/bootstrap.dat.zip
 
-MD5 : https://github.com/ShadowProject/bootstrap/releases/download/latest/md5.txt
-
-SHA256 : https://github.com/ShadowProject/bootstrap/releases/download/latest/sha256.txt
-
+MD5+SHA256 HASH : https://github.com/ShadowProject/bootstrap/releases/download/latest/bootstrap.dat.zip.DIGESTS.txt
