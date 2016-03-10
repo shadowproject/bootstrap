@@ -23,7 +23,7 @@ Independent third parties may generate their own bootstrap.dat, up to a recent h
 -----------------------
 Where can I get more info?
 
-Please head over to our WIKI here : http://shadowcash.info/x/MAAV
+Please head over to our Documents site here : https://doc.shadowproject.io/#bootstrap
 
 -----------------------
 Okay, tell me where do I get it?
